@@ -4,9 +4,9 @@ Our project is titled **Cross-country analysis of the Covid-19 outbreak** and is
 
 The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
 
-This **loades four datasets**:
+This **loads four datasets**:
 
-1. WPP2019_TotalPopulationBySex.csv downloaded from https://population.un.org/wpp/Download/Standard/CSV/
+1. WPP2019_TotalPopulationBySex.csv downloaded from https://population.un.org/wpp/Download/Standard/CSV/ and stored in the 'data' folder
 2. time_series_covid19_confirmed_global.csv downloaded from 'https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv'
-df_deaths = pd.read_csv('https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv')
-df_recovered = pd.read_csv('https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv')
+3. time_series_covid19_deaths_global.csv downloaded from https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_deaths_global.csv
+4. time_series_covid19_recovered_global.csv downloaded from https://raw.githubusercontent.com/CSSEGISandData/COVID-19/master/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_recovered_global.csv
