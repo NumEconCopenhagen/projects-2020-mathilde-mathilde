@@ -2,7 +2,7 @@
 
 Our project is titled **Cross-country analysis of the Covid-19 outbreak** and is about how different countries are affected by the Covid-19 virus in terms of the number of confirmed cases, recovered cases and deaths.
 
-The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb).
+The **results** of the project can be seen from running [dataproject.ipynb](dataproject.ipynb). For the interactive plots to show, it is important to clone the folder and run the notebook locally. 
 
 This **loads four datasets**:
 
